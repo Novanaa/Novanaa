@@ -1,10 +1,14 @@
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/130564362?v=4" height=120>
 <h1 align="center">Hi there! 👋 I'm <a href="https://github.com/ItsNvaa" target="blank">
 Kadek Nova</a></h1>
-</p>
 
 I'm a passionate web developer and a student based in the beautiful island of Bali, Indonesia 🏝️. I'm enthusiastic about creating innovative and user-friendly web solutions.
+
+## 🚀 About Me
+
+- 🏫 I'm currently a student at SMP Negeri 5 Singaraja.
+- 🌱 I'm passionate about learning new technologies, especially in the field of web development.
+- 💻 I enjoy building and experimenting with web projects.
+- 📚 I'm constantly learning and expanding my skill set.
 
 ## 🔧 Skills
 
@@ -15,12 +19,6 @@ I'm a passionate web developer and a student based in the beautiful island of Ba
 ![MongoDB](https://img.shields.io/badge/-Mongodb-brightgreen?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
 
-## 🚀 About Me
-
-- 🏫 I'm currently a student at SMP Negeri 5 Singaraja.
-- 🌱 I'm passionate about learning new technologies, especially in the field of web development.
-- 💻 I enjoy building and experimenting with web projects.
-- 📚 I'm constantly learning and expanding my skill set.
 
 ## 🌐 Connect with Me
 
