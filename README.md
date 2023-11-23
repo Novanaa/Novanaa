@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/130564362?v=4" height=120 style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/130564362?v=4" height=120>
 <h1 align="center">Hi there! 👋 I'm <a href="https://github.com/ItsNvaa" target="blank">
 Kadek Nova</a></h1>
 </p>
