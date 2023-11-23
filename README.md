@@ -1,6 +1,8 @@
-<img align="center" src="https://i.ibb.co/NrLTs83/nova.jpg" height=120>
+<a align="center">
+<img src="https://i.ibb.co/NrLTs83/nova.jpg#avatar" height=120>
 <h1 align="center">Hi there! 👋 I'm <a href="https://github.com/ItsNvaa" target="blank">
 Kadek Nova</a></h1>
+</a>
 
 I'm a passionate web developer and a student based in the beautiful island of Bali, Indonesia 🏝️. I'm enthusiastic about creating innovative and user-friendly web solutions.
 
