@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/NrLTs83/nova.jpg" height=120>
+<img align="center" src="https://i.ibb.co/NrLTs83/nova.jpg" height=120>
 <h1 align="center">Hi there! 👋 I'm <a href="https://github.com/ItsNvaa" target="blank">
 Kadek Nova</a></h1>
 
