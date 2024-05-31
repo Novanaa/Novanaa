@@ -27,6 +27,6 @@ I'm a passionate web developer and a student based in the beautiful island of Ba
 
 ## 📊 GitHub Stats
 
-[![ItsNvaa](https://github-readme-stats.vercel.app/api?username=ItsNvaa&show_icons=true&theme=radical)](https://github.com/ItsNvaa)
+[![Novanaa](https://github-readme-stats.vercel.app/api?username=Novanaa&show_icons=true&theme=radical)](https://github.com/ItsNvaa)
 
 Feel free to explore my repositories and reach out! Let's connect and learn together. 😊
