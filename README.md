@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="/"> 
-    <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/130564362?s=400&u=27d7b19fc34ed4f184329ffe1364474ae89660c2&v=4&w=300&fit=cover&mask=circle&maxage=7d" height="190">
-  </a>
   <h1 align="center">Hi there! 👋 I'm <a href="https://github.com/ItsNvaa" target="blank">
   Kadek Nova</a></h1>
 </div>
