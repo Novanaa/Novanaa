@@ -1,31 +1,40 @@
-<h1 align="center">Hi there! 👋 I'm <a href="https://github.com/ItsNvaa" target="blank">
-Kadek Nova</a></h1>
+<div align="center">
+  <a href="/"> 
+    <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/130564362?s=400&u=27d7b19fc34ed4f184329ffe1364474ae89660c2&v=4&w=300&fit=cover&mask=circle&maxage=7d" height="190">
+  </a>
+  <h1 align="center">Hi there! 👋 I'm <a href="https://github.com/ItsNvaa" target="blank">
+  Kadek Nova</a></h1>
+</div>
+
 
 I'm a passionate web developer and a student based in the beautiful island of Bali, Indonesia 🏝️. I'm enthusiastic about creating innovative and user-friendly web solutions.
 
-## 🚀 About Me
+##  About Me
 
 - 🏫 I'm currently a student at SMP Negeri 5 Singaraja.
-- 🌱 I'm passionate about learning new technologies, especially in the field of web development.
+- 🌱 I'm passionate about learning new technologies, especially in the field of web development and mobile development.
 - 💻 I enjoy building and experimenting with web projects.
 - 📚 I'm constantly learning and expanding my skill set.
 
-## 🔧 Skills
+##  Skills
 
-![Typescript](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge)
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
-![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-Mongodb-brightgreen?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
+![Javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=black)
+![Typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript&logoColor=%23fff&labelColor=black)
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=%23fff&labelColor=black)
+![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=%23fff&labelColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=%23fff&labelColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=%23fff&labelColor=black)
+![Dart](https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=Dart&logoColor=white&labelColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=%23fff&labelColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-white?style=for-the-badge&logo=nestjs&logoColor=%23fff&labelColor=black)
 
 
-## 🌐 Connect with Me
+## Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/ItsNvaa)](https://github.com/ItsNvaa)
-[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nvaa.jsx/)](https://www.instagram.com/nvaa.jsx/)
+[![GitHub](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=%23fff&labelColor=black)](https://github.com/ItsNvaa)
+[![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=%23fff&labelColor=black)](https://www.instagram.com/nvaa.jsx/)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 [![Novanaa](https://github-readme-stats.vercel.app/api?username=Novanaa&show_icons=true&theme=radical)](https://github.com/ItsNvaa)
 
