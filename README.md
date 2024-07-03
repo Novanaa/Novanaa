@@ -13,19 +13,6 @@ I'm a passionate web developer and a student based in the beautiful island of Ba
 - 💻 I enjoy building and experimenting with web projects.
 - 📚 I'm constantly learning and expanding my skill set.
 
-##  Skills
-
-![Javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=black)
-![Typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript&logoColor=%23fff&labelColor=black)
-![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=%23fff&labelColor=black)
-![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=%23fff&labelColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=%23fff&labelColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=%23fff&labelColor=black)
-![Dart](https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=Dart&logoColor=white&labelColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=%23fff&labelColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-white?style=for-the-badge&logo=nestjs&logoColor=%23fff&labelColor=black)
-
-
 ## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=%23fff&labelColor=black)](https://github.com/Novanaa)
