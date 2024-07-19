@@ -8,7 +8,7 @@ I'm a passionate web developer and a student based in the beautiful island of Ba
 
 ##  About Me
 
-- 🏫 I'm currently a student at SMP Negeri 5 Singaraja.
+- 🏫 I'm currently a student at SMA Negeri 3 Singaraja.
 - 🌱 I'm passionate about learning new technologies, especially in the field of web development and mobile development.
 - 💻 I enjoy building and experimenting with web projects.
 - 📚 I'm constantly learning and expanding my skill set.
